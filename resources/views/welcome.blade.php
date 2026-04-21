@@ -161,7 +161,7 @@
             </section>
 
             <section class="mt-16 rounded-3xl border border-[#d8d8ce] bg-[#f7f7ee] p-7 sm:p-9">
-                <h2 class="text-3xl font-semibold text-[#141414] sm:text-4xl">Our Team</h2>
+                <h2 class="text-3xl font-semibold text-[#141414] sm:text-4xl">About Us</h2>
                 <p class="mt-3 text-base leading-7 text-[#383838] sm:text-lg">
                     The people behind this project.
                 </p>
@@ -169,17 +169,17 @@
                 <div class="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
                     <article class="rounded-2xl border border-[#dfdfd4] bg-white p-5">
                         <p class="text-xl font-semibold text-[#171717]">Bioca, Anthonett A.</p>
-                        <p class="mt-2 text-sm text-[#4a4a4a]">Team Member</p>
+                        <p class="mt-2 text-sm text-[#4a4a4a]">UI/UX Designer</p>
                     </article>
 
                     <article class="rounded-2xl border border-[#dfdfd4] bg-white p-5">
                         <p class="text-xl font-semibold text-[#171717]">Calamba, Yra Faye R.</p>
-                        <p class="mt-2 text-sm text-[#4a4a4a]">Team Member</p>
+                        <p class="mt-2 text-sm text-[#4a4a4a]">UI/UX Designer</p>
                     </article>
 
                     <article class="rounded-2xl border border-[#dfdfd4] bg-white p-5">
                         <p class="text-xl font-semibold text-[#171717]">Gello, Jerame S.</p>
-                        <p class="mt-2 text-sm text-[#4a4a4a]">Team Member</p>
+                        <p class="mt-2 text-sm text-[#4a4a4a]">Main Developer</p>
                     </article>
                 </div>
             </section>
